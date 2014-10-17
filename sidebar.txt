@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sjm:home|Door43 (sjm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sjm|d43-sjm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sjm/archive/master.zip|d43-sjm.zip]]
+
+**Recent Changes**
+{{changes>ns = sjm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sjm|Ethnologue data]]
+
